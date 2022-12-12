@@ -1,0 +1,6 @@
+Assignment 6 Comments:
+Looking forward to presenting our final presentations tomorrow on brute
+forcing a webpage using a tool on kali called Hydra. I'm hoping I have succesfully met
+the credentials for my discrete mathematics course in order to further advance my studies
+in Computer Science here at WCSU. I dread the idea of a late submission, therefore I hope
+this submission is acceptable. Thank you for understanding.  
